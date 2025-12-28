@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Fathima Abbas<br>3rd year BTech Computer Science student @ FISAT<br>Full stack developer<br>AI & ML enthusiast<br>Building real-world projects
+👋Hi I'm Fathima Abbas<br>🎓3rd year BTech Computer Science student<br>Full stack developer |💻 AI Enthusiast<br> 🚀Passionate about building real-world projects
 
 
 ## 🌐 Socials:
