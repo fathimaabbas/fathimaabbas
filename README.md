@@ -21,6 +21,10 @@ I build real-world applications by combining modern web technologies with AI cap
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://leetcode.com/u/fathimaabbas/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
 </p>
 
 ---
