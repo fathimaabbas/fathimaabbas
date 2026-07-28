@@ -66,7 +66,6 @@ I build real-world applications by combining modern web technologies with AI cap
 <p>
 <img src="https://img.shields.io/badge/LLM%20Applications-412991?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG%20Systems-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
